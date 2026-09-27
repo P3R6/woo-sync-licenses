@@ -1,11 +1,16 @@
 {
  "signed": {
   "format": 1,
-  "serial": 1,
-  "issued": "2026-09-27T22:36:04+00:00",
-  "entries": {},
+  "serial": 2,
+  "issued": "2026-09-27T23:17:54+00:00",
+  "entries": {
+   "e05dd43246a64c72ccdb59d81cb930cc": {
+    "until": "2026-10-28",
+    "state": "active"
+   }
+  },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "W0q88ogCwv6bJvmV42y4VWcO58naG/CBM/BhS0BuBc25hFG5LDk3HHdOFzPZqGi6eSgwWxb+M92y12tvposUAA=="
+ "sig": "pgrdHZxnMJj4g3gvlh87hUm/wGSK0lysvJnpx8+Qim9zFH/Zs8OaES9+1p0+r9zf01PeOxtJIosDLPE5Hd7gBw=="
 }
