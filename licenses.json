@@ -1,0 +1,11 @@
+{
+ "signed": {
+  "format": 1,
+  "serial": 1,
+  "issued": "2026-09-27T22:36:04+00:00",
+  "entries": {},
+  "kind": "licenses"
+ },
+ "key": "k1",
+ "sig": "W0q88ogCwv6bJvmV42y4VWcO58naG/CBM/BhS0BuBc25hFG5LDk3HHdOFzPZqGi6eSgwWxb+M92y12tvposUAA=="
+}
