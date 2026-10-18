@@ -1,16 +1,17 @@
 {
  "signed": {
   "format": 1,
-  "serial": 2,
-  "issued": "2026-09-27T23:17:54+00:00",
+  "serial": 3,
+  "issued": "2026-10-18T16:33:23+00:00",
   "entries": {
    "e05dd43246a64c72ccdb59d81cb930cc": {
     "until": "2026-10-28",
-    "state": "active"
+    "state": "active",
+    "ai": "s1.pl51czRCaVbnrsMnBSH7lYnJ5bfm61ltymDrmwoLB8AwB16p89e6KL1qZXWbW9Fbx2oOj3CpsuqQP_U0BRVC2BZYqyJOjQ3cOnGWbhcsHdyxSLrlVs9uwZ2mcbu02EOFgPQKAGYCn2GG6Zme3DyB7bDVzIPeAlburMY9eij4R99UK7WsOTPU3kbSMa4FWfYQfPpUv3RPQKAPeh0GvrxyasBNHTrYRg"
    }
   },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "pgrdHZxnMJj4g3gvlh87hUm/wGSK0lysvJnpx8+Qim9zFH/Zs8OaES9+1p0+r9zf01PeOxtJIosDLPE5Hd7gBw=="
+ "sig": "ispGiBeQR8w7A5Xq2y2IPIDWvRO9s0ITQY+mEF/yTSF/qEQiXxoM9BEeBhZa0AN5KV9RCddXrkikTtmmZ6KrBA=="
 }
