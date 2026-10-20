@@ -1,17 +1,22 @@
 {
  "signed": {
   "format": 1,
-  "serial": 3,
-  "issued": "2026-10-18T16:33:23+00:00",
+  "serial": 4,
+  "issued": "2026-10-20T23:11:19+00:00",
   "entries": {
    "e05dd43246a64c72ccdb59d81cb930cc": {
     "until": "2026-10-28",
     "state": "active",
-    "ai": "s1.pl51czRCaVbnrsMnBSH7lYnJ5bfm61ltymDrmwoLB8AwB16p89e6KL1qZXWbW9Fbx2oOj3CpsuqQP_U0BRVC2BZYqyJOjQ3cOnGWbhcsHdyxSLrlVs9uwZ2mcbu02EOFgPQKAGYCn2GG6Zme3DyB7bDVzIPeAlburMY9eij4R99UK7WsOTPU3kbSMa4FWfYQfPpUv3RPQKAPeh0GvrxyasBNHTrYRg"
+    "ai": "s1.2vpxtqYr1i855_v3onBQCveo5SAwpP2qlGL4CPggjZWldF1NxDAHEKCj3xlDHYlztpR_BLGhNJOX41-quGNiBjhtP0c6rrZIJ23fpFQ_xUV1dt7YLULY_wwLpDTtARv6q7TibRPDndIXWtufJUcQxeSmjNEZkpdbaaiOqfiq7wMVmyqkGVjEc0mwr5bxtuXr9AIMPg9IU2PPVLo-XzzdrKIEEdtzCA"
+   },
+   "fe1af041e2087e36d4ef60be0a7f2358": {
+    "until": "2026-11-20",
+    "state": "active",
+    "ai": "s1.EpYGDkoHrtzFsh6TzinSloInvfOgE-kAQyOeEijZ6GyChajlX08jeRWOkFBEZJN7WtW9XBezUpTj_35izwb4HGREbx4ZvBwiaMKIrLdV0O2pdvBhdhzlQtzDMucWMDC60yWwaNZaBcWxGnjm5b8-zkJWcn2c55BMObUBAhLzrGHsmtuV4fFMi891wlvFOLQEIbosVvFTSW-kMy8lC3oCEZmpWS0Hgg"
    }
   },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "ispGiBeQR8w7A5Xq2y2IPIDWvRO9s0ITQY+mEF/yTSF/qEQiXxoM9BEeBhZa0AN5KV9RCddXrkikTtmmZ6KrBA=="
+ "sig": "h2wUBvUg5dT6NEJ7mSyialcS1Ox1Imjduv3PmKmAFW40oAZF6EkEfeHcNb+/n7zjHuVppyZH400ku2VqCX1ZDg=="
 }
