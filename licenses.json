@@ -1,27 +1,26 @@
 {
  "signed": {
   "format": 1,
-  "serial": 6,
-  "issued": "2026-10-20T23:12:17+00:00",
+  "serial": 7,
+  "issued": "2026-10-26T16:48:42+00:00",
   "entries": {
    "e05dd43246a64c72ccdb59d81cb930cc": {
     "until": "2026-10-28",
     "state": "active",
-    "ai": "s1.ynVDkAuXSJdr0vlDBLgivoOeanOaM7c4ipkp6n8oAN_jRREXJTCPGP78GBIdX1VZ0qTGYEDIa8GepbMR8yu5kD8MrEmqyWAwrOvDk3rxmeGazlINtWEP-_jUoweFkPtKYgTlwJK-kHP-z2yQVyixCJJ_s7ueOITmykEc21UaUp8UGdKAM0N1I2Poius8VdnOuOriW_8DDvFZuDtRTW6ydM35o4T4xQ"
+    "ai": "s1.6TJFRK5cFLSzzc8NUdg_ifcdWDQj-o2oAvcyGc4NaZqd3k02taRvTE0Oq3jszmErRZcx3K0meOP0umyli3JZXPnzo_tzZesXvWVuBum2UlXnm9USehBo-yWAJcTk5v9DWw0HV6lryfil1qo_PojZMC5roL0PS3g0h4SVUECVyM4cQaFrSBqiXADUonCCavPqRWzYPLFEOwr0nWmyppmwWjQNkJfYog"
    },
    "fe1af041e2087e36d4ef60be0a7f2358": {
     "until": "2026-11-20",
-    "state": "active",
-    "ai": "s1.jiBb86-_b46Xi8Bq2AcsT3mZrMovi1P1Q81Ote0lHpAcBygO5eCEC7huJBclN34-sdhX0OfbvE6Qp0O46TQKw_O_OOzvotoRJpTxIu2OB9KNiu3rpc6Q9G1D59kszXueYkrcHKkWnAdqfj3c4RlWwCbSz22o1KLlnXseN8_-zdOvq8Xp0R9w-IiaKH85_86b4tJuE5HpjBPIh2e24J8ZoDmy5fIlxg"
+    "state": "cancelled"
    },
    "e620a66a084a0c7ce3762d4f8908e5af": {
     "until": "2026-11-20",
     "state": "active",
-    "ai": "s1.O5LLkrtfHSsoRVXNoNzvxQdtneWVbNNwLchboJYqIDpGOMc1WH2cqIhHPMAS5Oz5CqJFa2Nj80SYz41JUAR4ODc2ab2ja5K79VYS0J-q6A2Bgxggc375qJc3HrqY_9xV5CKUZYcjntcMbNAndKc6oXYao6XBvEoq3tp3b1_tootajyirox6fiGkT6wMLiUwUzam2FN8TlFDGon_DHe9QeeWVuf2TWg"
+    "ai": "s1.b4ZAilwuDr3r7A1xDamdEs5qdYHh5AZGTEjiE-ExTM0wpZYuwVNczYBJst73Fc5eF-7lA0-I4st9XFEIGiH2S449RMaXYhyX30n_t1Z-AXQt9IzQ5JE6fyofWaxReZWcGZ-4rlD5uZrxKs8Tj0Kd4jbeBwikI0zm0q_yyZRMDOManlpSsqROYRIXhwKNgARB0Q0aMTdg2hX6X0Xzs_0ombyCDnudvg"
    }
   },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "A6qyZQQnQunNnf5VVlvMYoSXG67oFBuhmlrJLtDgYUCPIMeVCeGHGzFJ6IB1I/x6zTgAz5gyXHgzhOLlv0sODw=="
+ "sig": "A1BZTVsOeivJiVel41lazqU+Kk0RLTWlUxL+KAGcAnY8HcWe1rKajBYLoI3RwRHpx5WIQo8Vj/B0Tf2giQARCQ=="
 }
