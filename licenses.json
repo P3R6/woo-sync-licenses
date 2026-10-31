@@ -1,26 +1,27 @@
 {
  "signed": {
   "format": 1,
-  "serial": 7,
-  "issued": "2026-10-26T16:48:42+00:00",
+  "serial": 8,
+  "issued": "2026-10-31T09:09:09+00:00",
   "entries": {
    "e05dd43246a64c72ccdb59d81cb930cc": {
     "until": "2026-10-28",
     "state": "active",
-    "ai": "s1.6TJFRK5cFLSzzc8NUdg_ifcdWDQj-o2oAvcyGc4NaZqd3k02taRvTE0Oq3jszmErRZcx3K0meOP0umyli3JZXPnzo_tzZesXvWVuBum2UlXnm9USehBo-yWAJcTk5v9DWw0HV6lryfil1qo_PojZMC5roL0PS3g0h4SVUECVyM4cQaFrSBqiXADUonCCavPqRWzYPLFEOwr0nWmyppmwWjQNkJfYog"
+    "ai": "s1.JdJtEkiOyP8rLJ8l-HSsmPLaoHuRuFIx29EF7AilBpVrxUumJ7zS5-XNFS-Bvr6WXp5QtHV85AQTIAtA6-EOVkPNSMai7QKyjBgNN007CSx6m939bzoWe-Wqa4tOvsQPbCWCQMu2xcfjgffFdJrf5xYWUCmqpNFWPnJx9LF4YE35CisUxkF1-XJzl2wsY3sDH9SM3bQ-vowkNGqo9wRpZFhRErBOzw"
    },
    "fe1af041e2087e36d4ef60be0a7f2358": {
-    "until": "2026-11-20",
-    "state": "cancelled"
+    "until": "2026-12-20",
+    "state": "active",
+    "ai": "s1.GJVzbGl3XxtmgwPD_yG1LR5jpPDiyNYgzFTQHGTLIVeg7e4QtnXSlUgO0_bBbsp8rkfjGm4kLaVc3MLbtY7sxukFo-cqMvZqRer_31M29w3mu_KFkYzNN9rGqlCMnd_oYZSjK7YSHEAH-5p-ydJ3xfsE_VgeLkL7cDcb4dvAonKVVq450vGd_7dq6qFH5HoawkOFrdRIBYgWatH6tTPgPc_-f61vcA"
    },
    "e620a66a084a0c7ce3762d4f8908e5af": {
     "until": "2026-11-20",
     "state": "active",
-    "ai": "s1.b4ZAilwuDr3r7A1xDamdEs5qdYHh5AZGTEjiE-ExTM0wpZYuwVNczYBJst73Fc5eF-7lA0-I4st9XFEIGiH2S449RMaXYhyX30n_t1Z-AXQt9IzQ5JE6fyofWaxReZWcGZ-4rlD5uZrxKs8Tj0Kd4jbeBwikI0zm0q_yyZRMDOManlpSsqROYRIXhwKNgARB0Q0aMTdg2hX6X0Xzs_0ombyCDnudvg"
+    "ai": "s1.acnvQPmLJhtjX_6aE8fFJ-lMne1yr-3vcWB6djIkE4nO3Vcfhxi6_emhAIYSoYsMWTNymJMgB_gh8H-Pb9d_E8XkwlReCv_W00XinwTK9sNnuw5OAbhTmAMjE3ZP_HrybTvC110OZzZBkpq-or4EOFm1W864HsgeqEThzM4t6ubwng2meSlnhHH7jleJY6KFsfk9l42LCm0WixondGXUbIzoec2wCQ"
    }
   },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "A1BZTVsOeivJiVel41lazqU+Kk0RLTWlUxL+KAGcAnY8HcWe1rKajBYLoI3RwRHpx5WIQo8Vj/B0Tf2giQARCQ=="
+ "sig": "bnCTPRBUJFfM7NgV3G2uVcZEwUk3D+1m+anr3UuslUmjb/kVQgKaYFYCi8ZgJ9X9CMb1d53wuXXzWO0TskTMDQ=="
 }
