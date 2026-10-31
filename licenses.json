@@ -1,27 +1,27 @@
 {
  "signed": {
   "format": 1,
-  "serial": 8,
-  "issued": "2026-10-31T09:09:09+00:00",
+  "serial": 9,
+  "issued": "2026-10-31T09:09:17+00:00",
   "entries": {
    "e05dd43246a64c72ccdb59d81cb930cc": {
-    "until": "2026-10-28",
+    "until": "2026-11-30",
     "state": "active",
-    "ai": "s1.JdJtEkiOyP8rLJ8l-HSsmPLaoHuRuFIx29EF7AilBpVrxUumJ7zS5-XNFS-Bvr6WXp5QtHV85AQTIAtA6-EOVkPNSMai7QKyjBgNN007CSx6m939bzoWe-Wqa4tOvsQPbCWCQMu2xcfjgffFdJrf5xYWUCmqpNFWPnJx9LF4YE35CisUxkF1-XJzl2wsY3sDH9SM3bQ-vowkNGqo9wRpZFhRErBOzw"
+    "ai": "s1.P5lNmztDnaa5c_BZUNgfu0mMnFsjn2mmY7hemxd9AwIR0V5j8_56N3xCtNgCkQPbZ8p1H7-aQXT6nF31MCVAtN60ExwyDTygwKS1mSoy9lFNaaLp8mS12_JkvBJqeBsl3cbUSf1e6COkSSIUqeHQKxi2RAhQ2MCdLjaDsBcpB3kn_ljVc210lavnNXwKSsksRR5GzMUgtlnw7qfS7890_PIRMhAp4Q"
    },
    "fe1af041e2087e36d4ef60be0a7f2358": {
     "until": "2026-12-20",
     "state": "active",
-    "ai": "s1.GJVzbGl3XxtmgwPD_yG1LR5jpPDiyNYgzFTQHGTLIVeg7e4QtnXSlUgO0_bBbsp8rkfjGm4kLaVc3MLbtY7sxukFo-cqMvZqRer_31M29w3mu_KFkYzNN9rGqlCMnd_oYZSjK7YSHEAH-5p-ydJ3xfsE_VgeLkL7cDcb4dvAonKVVq450vGd_7dq6qFH5HoawkOFrdRIBYgWatH6tTPgPc_-f61vcA"
+    "ai": "s1.3xv6Thn5S1aLpFf5hMzzukq0x_vKMne91Ij8T5jP1ogvSKi5W4uIhhExHPS-IIjA1B9YguEDt1KcgTSSZs5--qXc9iwcazoEzwwKnOoSmLMf0uzhrCFrwh_TH01RC2fxWxEKoFb5wAXMiBqAHM8Q3jVRQ-ZCICNh0L3GfC6VHTpyLu2rVU87SBcCpO2LHzuPczl7v8km0bsdiNlgg31uXEmA4BjhTA"
    },
    "e620a66a084a0c7ce3762d4f8908e5af": {
     "until": "2026-11-20",
     "state": "active",
-    "ai": "s1.acnvQPmLJhtjX_6aE8fFJ-lMne1yr-3vcWB6djIkE4nO3Vcfhxi6_emhAIYSoYsMWTNymJMgB_gh8H-Pb9d_E8XkwlReCv_W00XinwTK9sNnuw5OAbhTmAMjE3ZP_HrybTvC110OZzZBkpq-or4EOFm1W864HsgeqEThzM4t6ubwng2meSlnhHH7jleJY6KFsfk9l42LCm0WixondGXUbIzoec2wCQ"
+    "ai": "s1.8qQoshlo0jLEyDjLlUpSUP6tY4OEcJ4BuxkPGFElrFUdD3hPV690jr2SWWJjGDkwKv1OFwkh2LJaHUomxSU4kw1GVxXmN6WIx3d3WyxAaZdBLQUsbQaGvicx__kwBHBXQ1lnvvlgt5-wbmhlVS7WWrp3_Gqc2Q0tGOb_8fkaxLYPrQB13Zn8Yk-nWP-zNSHeWOuYc6vnWow-gXeT45sttfzdr64Knw"
    }
   },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "bnCTPRBUJFfM7NgV3G2uVcZEwUk3D+1m+anr3UuslUmjb/kVQgKaYFYCi8ZgJ9X9CMb1d53wuXXzWO0TskTMDQ=="
+ "sig": "kczmxCvxjEITCVxjdjUKOF9z2zhmz4pyPj0J01JXbOWJpPPSDuzR4kMirBNcNq42hEbAeK1prCHiuEhbQzsVDw=="
 }
