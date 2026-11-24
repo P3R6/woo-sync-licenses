@@ -1,27 +1,27 @@
 {
  "signed": {
   "format": 1,
-  "serial": 9,
-  "issued": "2026-10-31T09:09:17+00:00",
+  "serial": 10,
+  "issued": "2026-11-24T08:08:46+00:00",
   "entries": {
    "e05dd43246a64c72ccdb59d81cb930cc": {
     "until": "2026-11-30",
     "state": "active",
-    "ai": "s1.P5lNmztDnaa5c_BZUNgfu0mMnFsjn2mmY7hemxd9AwIR0V5j8_56N3xCtNgCkQPbZ8p1H7-aQXT6nF31MCVAtN60ExwyDTygwKS1mSoy9lFNaaLp8mS12_JkvBJqeBsl3cbUSf1e6COkSSIUqeHQKxi2RAhQ2MCdLjaDsBcpB3kn_ljVc210lavnNXwKSsksRR5GzMUgtlnw7qfS7890_PIRMhAp4Q"
+    "ai": "s1.MYOuMFO_TW6qRDjBP5YwLfmbpe_oVt-sP3iSVteqIUECxhHqfbTNJTxWiKWrukiOMCpr3a6jUDlzVtQXo-5NuJAUd9FHFmVripAioK_Rr9jrnJZX93trKfNg3Qa6KPoXuiKk19Y0aOxmO_fh9i3hIs0tiIIjXkBDioLKXHz8_oe1ORzQflOwUI5r8al6PREXpBwMNOPF0AyQO9dbkNU0kHELub6OzA"
    },
    "fe1af041e2087e36d4ef60be0a7f2358": {
     "until": "2026-12-20",
     "state": "active",
-    "ai": "s1.3xv6Thn5S1aLpFf5hMzzukq0x_vKMne91Ij8T5jP1ogvSKi5W4uIhhExHPS-IIjA1B9YguEDt1KcgTSSZs5--qXc9iwcazoEzwwKnOoSmLMf0uzhrCFrwh_TH01RC2fxWxEKoFb5wAXMiBqAHM8Q3jVRQ-ZCICNh0L3GfC6VHTpyLu2rVU87SBcCpO2LHzuPczl7v8km0bsdiNlgg31uXEmA4BjhTA"
+    "ai": "s1.hhzDJ4qB02H0eazXt8iMrJ7Q5uJZUAXZ-XMGGD344BJLHaKMyVoIW8Moeo1I93VNp3FtGmisBWvmRPr-5E-Hrwb9XlflEzcyY_eHnGEbDXvKgDfL3nr4YLLJX5hwxJUi_V1xOKubsoHsFgrNnZiIa0s-r12Rz6Lfzou09Fvf1jfycEfso7FaqlKyLF5Sqs3MmB-hi-ErBTHsOLXppB_S-yA7RGB1Ow"
    },
    "e620a66a084a0c7ce3762d4f8908e5af": {
-    "until": "2026-11-20",
+    "until": "2026-12-24",
     "state": "active",
-    "ai": "s1.8qQoshlo0jLEyDjLlUpSUP6tY4OEcJ4BuxkPGFElrFUdD3hPV690jr2SWWJjGDkwKv1OFwkh2LJaHUomxSU4kw1GVxXmN6WIx3d3WyxAaZdBLQUsbQaGvicx__kwBHBXQ1lnvvlgt5-wbmhlVS7WWrp3_Gqc2Q0tGOb_8fkaxLYPrQB13Zn8Yk-nWP-zNSHeWOuYc6vnWow-gXeT45sttfzdr64Knw"
+    "ai": "s1.UY_k39KEHpctvSh2AjKKhGBd8LiGz3R7MNthqGQDFwjkAh5-u3cR2sQD-7ccjRrHU9KZFEltn8tz_UKv3efDR3zFWhS3TJDKQOKhUvAzt1Q54OGyu0qCSvmmXTsuzouFwmfhFt6T0rInI8ZnFZWmK_ymtMnf2hXKN51Gl9T1NJmlH45YXd8YVTiXovKUuBeQ2ImMcGloU5waUjn7CYj8oC0EoRJJRg"
    }
   },
   "kind": "licenses"
  },
  "key": "k1",
- "sig": "kczmxCvxjEITCVxjdjUKOF9z2zhmz4pyPj0J01JXbOWJpPPSDuzR4kMirBNcNq42hEbAeK1prCHiuEhbQzsVDw=="
+ "sig": "jUZ8PaM5tggLT4EaCIO46iesIPB3mL/XqZgxAlrXCwzVs27XZgNBbHCC1OGm68zei5AhG2xZavq9XSiAPup0Ag=="
 }
